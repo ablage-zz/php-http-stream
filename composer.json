@@ -1,0 +1,32 @@
+{
+    "name": "marcelerz/php-http-stream",
+    "description": "HTTP streaming class",
+    "license": "MIT",
+    "homepage": "https://github.com/marcelerz/php-stream",
+    "keywords": [
+        "spy",
+        "testing",
+        "xunit"
+    ],
+    "authors": [
+        {
+            "name": "Marcel Erz",
+            "email": "marcel.erz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/marcelerz/php-http-stream/issues"
+    },
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "HttpStream": "src/"
+        }
+    }
+}
