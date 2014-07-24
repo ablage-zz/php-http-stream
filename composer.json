@@ -2,11 +2,13 @@
     "name": "marcelerz/php-http-stream",
     "description": "HTTP streaming class",
     "license": "MIT",
-    "homepage": "https://github.com/marcelerz/php-stream",
+    "homepage": "https://github.com/marcelerz/php-http-stream",
+    "version": "1.0.0",
     "keywords": [
-        "spy",
-        "testing",
-        "xunit"
+        "http",
+        "streaming",
+        "audio",
+        "video"
     ],
     "authors": [
         {
